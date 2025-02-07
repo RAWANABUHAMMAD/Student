@@ -1,0 +1,24 @@
+[
+    {
+        "email": "Ahmad1@gmail.com",
+        "name": "Ahmad Kahled",
+        "phone": "123456789",
+        "passward":"Ahmad123456",
+        "age": "10",
+        "image": "https://via.placeholder.com/150",
+        "address":"University Street" 
+       
+      },
+    
+      {
+        "email": "Sara2@gmail.com",
+        "name": "Sara Ahmed",
+        "phone": "987654321",
+        "passward":"Sara123456",
+        "age": "5",
+        "image": "https://via.placeholder.com/150",
+        "address": "Al -Nahda Street"
+      
+        
+      }
+      ]
